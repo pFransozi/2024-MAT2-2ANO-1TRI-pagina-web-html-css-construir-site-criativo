@@ -21,6 +21,21 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   2. Adicionar uma imagem da internet, ajustando sua posição e tamanho no CSS;
   3. Aplicar um gradiente de cores utilizando a propriedade linear-gradient, para criar um fundo degradê para o projeto;
   4. Alinhar os conteúdos com as propriedades display, text-align e justify-content.
+* **Aula 04**
+  1. Selecionar as fontes no site Google Fontes e também como incluir elas dentro do HTML e do CSS;
+  2. Pesquisar ícones gratuitos de rede sociais e aplicar os devidos créditos aos criadores;
+  3. Incluir os ícones dentro do arquivo HTML que estamos construindo;
+  4. Utilizar as divs para organizar nosso conteúdo;
+  5. Entender o conceito de reutilização das classes e que as estilizações podem ser semelhantes, reconhecendo um padrão entre elas;
+  6. Alinhar os textos ao centro usando a propriedade text-align dentro de uma divisão de conteúdo.
+* **Aula 05**
+  1. Ancorar links em imagens utilizando a tag a e propriedade href=””, que nos permite adicionar uma URL
+  2. Adicionar o display: grid e utilizar a propriedade grid-template-columns para criar colunas em uma determinada seção da página;
+  3. Aplicar o conceito de grid, adequando-o aos agrupamentos de tags;
+  4. Corrigir o alinhamento de divs, entendendo como os elementos são agrupados e quem são os elementos pais e filhos;
+  5. Criar um rodapé com a tag footer;
+  6. Compartilhar seu projeto no Github, tornando ele acessível publicamente.
+
 
 ## Links
 
@@ -38,3 +53,5 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 [HTML div: estilizando sua páginas utilizando a tag <div>](https://blog.betrybe.com/html/div-html/)
 [HTML <div> Tag](https://www.w3schools.com/tags/tag_div.ASP)
 [Gerador de Lero Lero](https://lerolero.com/)
+[Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout)
+[Angry Tools CSS-Grid](https://angrytools.com/css-grid/)
